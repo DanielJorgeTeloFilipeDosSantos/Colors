@@ -6,4 +6,6 @@ Guess what the middle color between two rgb colors is.
 
 Usefull for Frontend, also being used for an image convertor that im working on.
 
+An example can be found here:  https://danieljorgetelofilipedossantos.github.io/colors/
+
 
